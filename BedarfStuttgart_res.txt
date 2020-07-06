@@ -1,0 +1,21 @@
+@id	@type	type	route	name	description	from	to	ref	detour	status	Länge Teilstücke
+3225	relation	route	detour	U 16 (A 8)				U 16	A 8	zusammenhängend	7,974
+56303	relation	route	detour	U 18 (A 8)				U 18	A 8	zusammenhängend	3,017
+56305	relation	route	detour	U 18a (A 8)				U 18a	A 8	nicht zusammenhängend	3,602	3,263
+56308	relation	route	detour	U 20 (A 8)				U 20	A 8	zusammenhängend	2,897
+56309	relation	route	detour	U 20a (A 8)				U 20a	A 8	zusammenhängend	11,433
+59890	relation	route	detour	U 4 (A 831)				U 4	A 831	zusammenhängend	6,165
+59891	relation	route	detour	U 15 (A 8)				U 15	A 8	zusammenhängend	12,442
+59896	relation	route	detour	U 17 (A 8)				U 17	A 8	zusammenhängend	5,996
+186370	relation	route	detour	U 19 (A 81)				U 19	A 81	zusammenhängend	4,493
+186374	relation	route	detour	U 22 (A 8)				U 22	A 8	zusammenhängend	14,802
+186375	relation	route	detour	U 13 (A 8)				U 13	A 8	zusammenhängend	16,850
+392353	relation	route	detour	U 12 (A 81)				U 12	A 81	nicht zusammenhängend	17,495	0,657
+399132	relation	route	detour	U 2 (A 831)				U 2	A 831	zusammenhängend	4,604
+399165	relation	route	detour					U 17a	A 8	zusammenhängend	3,745
+399574	relation	route	detour	U 17 (A 81)				U 17	A 81	zusammenhängend	5,611
+422454	relation	route	detour	U 16 (A 81)				U 16	A 81	zusammenhängend	10,795
+2068306	relation	route	detour	U 3 (A 81)				U 3	A 81	zusammenhängend	9,325
+11164978	relation	route	detour	U 19 (A 8)				U 19	A 8	zusammenhängend	6,695
+Datum der Auswertung:	 	2020-07-05 06:18:36.384086
+Auswertung dank	 https://www.grundid.de/ 	und 	http://ra.osmsurround.org/index

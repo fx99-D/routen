@@ -1,0 +1,304 @@
+@id	@type	type	route	name	description	from	to	ref	detour	status	Länge Teilstücke
+2871	relation	route	detour	U 11 (A 8)				U 11	A 8	zusammenhängend	14,341
+3225	relation	route	detour	U 16 (A 8)				U 16	A 8	zusammenhängend	7,974
+18386	relation	route	detour	U 9a (A 8)				U 9a	A 8	zusammenhängend	11,325
+23144	relation	route	detour	U 14 (A 81)				U 14	A 81	zusammenhängend	3,300
+34215	relation	route	detour	U 26 (A 8)				U 26	A 8	zusammenhängend	11,861
+36821	relation	route	detour	U 2 (A 6)				U 2	A 6	zusammenhängend	10,918
+38697	relation	route	detour	U 16 (A 6)				U 16	A 6	zusammenhängend	28,004
+38809	relation	route	detour	U 37 (A 6)				U 37	A 6	zusammenhängend	28,384
+49603	relation	route	detour	U 46 (A 67)				U 46	A 67	nicht zusammenhängend	19,219	0,668
+51315	relation	route	detour					U 78	A 6	nicht zusammenhängend	6,699	5,348
+53698	relation	route	detour	U 73 (A 61)				U 73	A 61	zusammenhängend	13,978
+56234	relation	route	detour	U 68a (A 8)				U 68a	A 8	zusammenhängend	9,076
+56238	relation	route	detour	U 2 (A 8)				U 2	A 8	zusammenhängend	12,198
+56277	relation	route	detour	U 12a (A 8)				U 12a	A 8	zusammenhängend	9,419
+56303	relation	route	detour	U 18 (A 8)				U 18	A 8	zusammenhängend	3,017
+56305	relation	route	detour	U 18a (A 8)				U 18a	A 8	zusammenhängend	6,882
+56308	relation	route	detour	U 20 (A 8)				U 20	A 8	zusammenhängend	2,897
+56309	relation	route	detour	U 20a (A 8)				U 20a	A 8	zusammenhängend	11,433
+59890	relation	route	detour	U 4 (A 831)				U 4	A 831	zusammenhängend	6,165
+59891	relation	route	detour	U 15 (A 8)				U 15	A 8	zusammenhängend	12,442
+59896	relation	route	detour	U 17 (A 8)				U 17	A 8	zusammenhängend	5,996
+59906	relation	route	detour	U 23 (A 8)				U 23	A 8	zusammenhängend	10,547
+59910	relation	route	detour	U 23a (A 8)				U 23a	A 8	zusammenhängend	4,918
+59914	relation	route	detour	U 25 (A 8)				U 25	A 8	zusammenhängend	10,888
+59915	relation	route	detour	U 27 (A 8)				U 27	A 8	zusammenhängend	15,357
+59924	relation	route	detour	U 29 (A 8)				U 29	A 8	zusammenhängend	42,790
+59936	relation	route	detour	U 31 (A 8)				U 31	A 8	zusammenhängend	23,468
+59943	relation	route	detour	U 33 (A 8)				U 33	A 8	zusammenhängend	10,438
+59964	relation	route	detour	U 35 (A 8)				U 35	A 8	zusammenhängend	13,265
+65532	relation	route	detour	U 5 (A 81)				U 5	A 81	zusammenhängend	9,493
+65534	relation	route	detour	U 7 (A 81)				U 7	A 81	zusammenhängend	6,192
+65536	relation	route	detour	U 9 (A 81)				U 9	A 81	zusammenhängend	9,413
+65539	relation	route	detour	U 11 (A 81)				U 11	A 81	zusammenhängend	12,989
+65552	relation	route	detour	U 13 (A 81)				U 13	A 81	zusammenhängend	15,014
+65555	relation	route	detour	U 15 (A 81)				U 15	A 81	zusammenhängend	6,675
+65558	relation	route	detour	U 17 (A 81)				U 17	A 81	nicht zusammenhängend	10,682	0,678
+65565	relation	route	detour	U 58 (A 6)				U 58	A 6	zusammenhängend	12,116
+65575	relation	route	detour	U 75 (A 6)				U 75	A 6	zusammenhängend	8,203
+65582	relation	route	detour	U 77 (A 6)				U 77	A 6	zusammenhängend	13,866
+65586	relation	route	detour	U 79 (A 6)				U 79	A 6	zusammenhängend	10,566
+65590	relation	route	detour	U 83 (A 6)				U 83	A 6	zusammenhängend	23,060
+65594	relation	route	detour	U 85 (A 6)				U 85	A 6	zusammenhängend	10,292
+65596	relation	route	detour	U 87 (A 6)				U 87	A 6	zusammenhängend	16,625
+65731	relation	route	detour	U 89 (A 6)				U 89	A 6	zusammenhängend	15,461
+67701	relation	route	detour	U 34 (A 61)				U 34	A 61	zusammenhängend	12,840
+74530	relation	route	detour	U 21 (A 8)				U 21	A 8	zusammenhängend	9,790
+88919	relation	route	detour	U 89 (A 3)				U 89	A 3	zusammenhängend	19,627
+89126	relation	route	detour	U 9 (A 8)				U 9	A 8	zusammenhängend	12,355
+109812	relation	route	detour	U 36 (A 61)				U 36	A 61	zusammenhängend	7,596
+138346	relation	route	detour	U 24 (A 8)				U 24	A 8	zusammenhängend	16,608
+151923	relation	route	detour	U 29 (A 81)				U 29	A 81	zusammenhängend	14,210
+151944	relation	route	detour	U 54 (A 81)				U 54	A 81	zusammenhängend	20,514
+151952	relation	route	detour	U 52 (A 81)				U 52	A 81	zusammenhängend	14,325
+151957	relation	route	detour	U 12 (A 81)				U 12	A 81	zusammenhängend	4,056
+151974	relation	route	detour	U 59 (A 6)				U 59	A 6	zusammenhängend	16,911
+154475	relation	route	detour	U 61 (A 6)				U 61	A 6	zusammenhängend	4,126
+165737	relation	route	detour					U 26	A 5	zusammenhängend	26,395
+165738	relation	route	detour	U 27 (A 5)				U 27	A 5	zusammenhängend	21,652
+166017	relation	route	detour	U 30 (A 5)				U 30	A 5	zusammenhängend	15,884
+166173	relation	route	detour	U 26a (A 5)				U 26a	A 5	zusammenhängend	16,804
+166175	relation	route	detour					U 28	A 5	zusammenhängend	20,737
+166202	relation	route	detour	U 29 (A 5)				U 29	A 5	zusammenhängend	16,601
+184396	relation	route	detour	U 50 (A 81)				U 50	A 81	zusammenhängend	15,642
+184399	relation	route	detour	U 6 (A 81)				U 6	A 81	zusammenhängend	4,980
+184401	relation	route	detour	U 11a (A 8)				U 11a	A 8	zusammenhängend	4,307
+184402	relation	route	detour	U 11b (A 8)				U 11b	A 8	zusammenhängend	10,013
+186370	relation	route	detour	U 19 (A 81)				U 19	A 81	zusammenhängend	4,493
+186374	relation	route	detour	U 22 (A 8)				U 22	A 8	zusammenhängend	14,802
+186375	relation	route	detour	U 13 (A 8)				U 13	A 8	zusammenhängend	16,850
+186380	relation	route	detour	U 1 (A 81)				U 1	A 81	zusammenhängend	13,994
+186640	relation	route	detour					U 19a	A 5	zusammenhängend	6,830
+186699	relation	route	detour	U 25 (A 5)				U 25	A 5	zusammenhängend	13,873
+187164	relation	route	detour	U 61 (A 5)				U 61	A 5	zusammenhängend	8,981
+187169	relation	route	detour	U 57 (A 5)				U 57	A 5	zusammenhängend	5,872
+187188	relation	route	detour	U 60 (A 6)				U 60	A 6	zusammenhängend	6,256
+187189	relation	route	detour	U 62 (A 6)				U 62	A 6	zusammenhängend	15,123
+187204	relation	route	detour	U 68 (A 6)				U 68	A 6	zusammenhängend	17,441
+187221	relation	route	detour	U 57 (A 6)				U 57	A 6	zusammenhängend	10,027
+187377	relation	route	detour	U 19 (A 81)				U 19	A 81	zusammenhängend	20,604
+187385	relation	route	detour	U 12 (A 5)				U 12	A 5	zusammenhängend	21,075
+187392	relation	route	detour					U 14	A 5	zusammenhängend	35,553
+187403	relation	route	detour	U 16 (A 5)				U 16	A 5	nicht zusammenhängend	0,527	3,787
+222588	relation	route	detour	U 15 (A 5)				U 15	A 5	zusammenhängend	22,765
+222692	relation	route	detour	U 34 (A 5)				U 34	A 5	zusammenhängend	16,812
+222693	relation	route	detour	U 21 (A 5)				U 21	A 5	zusammenhängend	16,670
+275357	relation	route	detour	U 48 (A 81)				U 48	A 81	zusammenhängend	23,989
+275358	relation	route	detour	U 33 (A 81)				U 33	A 81	zusammenhängend	24,592
+275361	relation	route	detour	U 46 (A 81)				U 46	A 81	zusammenhängend	9,581
+275362	relation	route	detour	U 35 (A 81)				U 35	A 81	zusammenhängend	9,336
+278245	relation	route	detour	U 31 (A 81)				U 31	A 81	zusammenhängend	15,611
+278310	relation	route	detour	U 2 (A 81)				U 2	A 81	zusammenhängend	11,694
+281512	relation	route	detour	U 42 (A 81)				U 42	A 81	zusammenhängend	20,519
+281513	relation	route	detour	U 40 (A 81)				U 40	A 81	zusammenhängend	21,137
+281514	relation	route	detour	U 41 (A 81)				U 41	A 81	zusammenhängend	21,691
+281515	relation	route	detour	U 39 (A 81)				U 39	A 81	zusammenhängend	20,479
+285092	relation	route	detour	U 43 (A 81)				U 43	A 81	zusammenhängend	16,992
+285093	relation	route	detour	U 38 (A 81)				U 38	A 81	zusammenhängend	16,579
+318213	relation	route	detour	U 24 (A 81)				U 24	A 81	zusammenhängend	9,635
+326713	relation	route	detour	U 26 (A 81)				U 26	A 81	zusammenhängend	21,870
+326719	relation	route	detour	U 25 (A 81)				U 25	A 81	zusammenhängend	17,531
+359986	relation	route	detour	U 26a (A 8)				U 26a	A 8	zusammenhängend	16,416
+363644	relation	route	detour	U 16 (A 81)				U 16	A 81	zusammenhängend	19,428
+363892	relation	route	detour	U 18 (A 81)				U 18	A 81	zusammenhängend	13,103
+363895	relation	route	detour	U 70 (A 6)				U 70	A 6	zusammenhängend	9,801
+363897	relation	route	detour	U 72 (A 6)				U 72	A 6	zusammenhängend	17,728
+363901	relation	route	detour	U 63 (A 6)				U 63	A 6	zusammenhängend	13,986
+372476	relation	route	detour	U 66 (A 6)				U 66	A 6	zusammenhängend	5,368
+372557	relation	route	detour	U 31 (A 81)				U 31	A 81	zusammenhängend	20,780
+379582	relation	route	detour	U 6 (A 81)				U 6	A 81	nicht zusammenhängend	6,572	9,104
+389470	relation	route	detour					U 1	A 5	zusammenhängend	7,189
+389502	relation	route	detour	U 3 (A 5)				U 3	A 5	zusammenhängend	13,263
+389583	relation	route	detour	U 5 (A 5)				U 5	A 5	nicht zusammenhängend	22,920	0,129	0,214
+389622	relation	route	detour					U 7	A 5	nicht zusammenhängend	20,147	0,168	0,141
+390275	relation	route	detour	U 7a (A 5)				U 7a	A 5	zusammenhängend	22,259
+390299	relation	route	detour	U 9 (A 5)				U 9	A 5	zusammenhängend	17,881
+390435	relation	route	detour					U 11	A 5	zusammenhängend	10,852
+390547	relation	route	detour					U 13	A 5	zusammenhängend	14,441
+390608	relation	route	detour					U 17	A 5	zusammenhängend	7,986
+390648	relation	route	detour	U 23 (A 5)				U 23	A 5	zusammenhängend	25,760
+391253	relation	route	detour	U 31 (A 5)				U 31	A 5	zusammenhängend	15,355
+391322	relation	route	detour					U 35	A 5	zusammenhängend	17,753
+391357	relation	route	detour					U 37	A 5	zusammenhängend	2,425
+391955	relation	route	detour	U 5 (A 8)				U 5	A 8	zusammenhängend	23,861
+392000	relation	route	detour	U 7 (A 8)				U 7	A 8	zusammenhängend	8,050
+392351	relation	route	detour	U 8 (A 81)				U 8	A 81	zusammenhängend	13,973
+392353	relation	route	detour	U 12 (A 81)				U 12	A 81	zusammenhängend	16,690
+392355	relation	route	detour	U 18 (A 81)				U 18	A 81	zusammenhängend	12,702
+395536	relation	route	detour	U 22a (A 8)				U 22a	A 8	zusammenhängend	4,369
+395542	relation	route	detour	U 24a (A 81)				U 24a	A 8	zusammenhängend	6,473
+396783	relation	route	detour	U 28 (A 8)				U 28	A 8	zusammenhängend	13,090
+396785	relation	route	detour	U 28a (A 8)				U 28a	A 8	zusammenhängend	14,985
+396796	relation	route	detour	U 30 (A 8)				U 30	A 8	zusammenhängend	29,564
+396806	relation	route	detour	U 32 (A 8)				U 32	A 8	zusammenhängend	11,177
+396807	relation	route	detour	U 34 (A 8)				U 34	A 8	zusammenhängend	10,381
+396822	relation	route	detour					U 39a	A 5	zusammenhängend	5,363
+396824	relation	route	detour					U 41	A 5	zusammenhängend	22,947
+396831	relation	route	detour					U 45	A 5	zusammenhängend	15,339
+396833	relation	route	detour					U 47	A 5	zusammenhängend	17,662
+397086	relation	route	detour	U 49 (A 5)				U 49	A 5	zusammenhängend	13,453
+397088	relation	route	detour	U 51 (A 5)				U 51	A 5	zusammenhängend	10,172
+397092	relation	route	detour	U 55 (A 5)				U 55	A 5	zusammenhängend	8,052
+397214	relation	route	detour	U 59 (A 5)				U 59	A 5	zusammenhängend	9,309
+397218	relation	route	detour	U 63 (A 5)				U 63	A 5	zusammenhängend	10,640
+399031	relation	route	detour	U 86 (A 5)				U 86	A 5	zusammenhängend	17,567
+399035	relation	route	detour	U 88 (A 5)				U 88	A 5	zusammenhängend	14,750
+399042	relation	route	detour	U 92 (A 5)				U 92	A 5	zusammenhängend	6,963
+399047	relation	route	detour	U 94 (A 5)				U 94	A 5	zusammenhängend	8,001
+399048	relation	route	detour					U 96	A 5	zusammenhängend	12,089
+399055	relation	route	detour	U 8 (A 5)				U 8	A 5	zusammenhängend	14,448
+399059	relation	route	detour	U 10 (A 5)				U 10	A 5	zusammenhängend	24,352
+399075	relation	route	detour	U 18 (A 5)				U 18	A 5	zusammenhängend	9,450
+399076	relation	route	detour	U 3 (A 8)				U 3	A 8	zusammenhängend	8,853
+399082	relation	route	detour	U 7a (A 8)				U 7a	A 8	zusammenhängend	8,534
+399088	relation	route	detour	U 9b (A 8)				U 9b	A 8	zusammenhängend	5,745
+399132	relation	route	detour	U 2 (A 831)				U 2	A 831	zusammenhängend	4,604
+399165	relation	route	detour					U 17a	A 8	zusammenhängend	3,745
+399452	relation	route	detour	U 14 (A 8)				U 14	A 8	zusammenhängend	10,011
+399574	relation	route	detour	U 17 (A 81)				U 17	A 81	zusammenhängend	5,611
+402041	relation	route	detour	U 20 (A 81)				U 20	A 81	zusammenhängend	17,701
+402043	relation	route	detour	U 27 (A 81)				U 27	A 81	zusammenhängend	13,452
+402048	relation	route	detour	U 13 (A 81)				U 13	A 81	zusammenhängend	5,238
+402915	relation	route	detour	U 14 (A 81)				U 14	A 81	zusammenhängend	21,788
+402923	relation	route	detour	U 21 (A 81)				U 21	A 81	zusammenhängend	9,390
+422449	relation	route	detour	U 14 (A 81)				U 14	A 81	zusammenhängend	9,052
+422454	relation	route	detour	U 16 (A 81)				U 16	A 81	zusammenhängend	10,795
+422457	relation	route	detour	U 23 (A 81)				U 23	A 81	zusammenhängend	29,951
+422459	relation	route	detour	U 29 (A 81)				U 29	A 81	zusammenhängend	18,510
+536754	relation	route	detour	U 66a (A 6)				U 66a	A 6	zusammenhängend	3,772
+546183	relation	route	detour	U 22 (A 81)				U 22	A 81	zusammenhängend	29,305
+564056	relation	route	detour	U 65 (A 6)				U 65	A 6	zusammenhängend	14,836
+574675	relation	route	detour	U 64 (A 6)				U 64	A 6	zusammenhängend	14,270
+574695	relation	route	detour	U 69 (A 6)				U 69	A 6	zusammenhängend	15,179
+942841	relation	route	detour	U 61a (A 6)				U 61a	A 6	zusammenhängend	4,638
+975592	relation	route	detour	U 10 (A 81)				U 10	A 81	zusammenhängend	10,626
+1103450	relation	route	detour	U 90 (A 5)				U 90	A 5	zusammenhängend	10,568
+1204020	relation	route	detour					U 19a	A 8	zusammenhängend	2,780
+1204021	relation	route	detour					U 12a	A 8	zusammenhängend	1,167
+1210357	relation	route	detour	U 56 (A 6)				U 56	A 6	zusammenhängend	16,241
+1285135	relation	route	detour					U 30	A 8	zusammenhängend	6,307
+1368380	relation	route	detour	U 10 (A 81)				U 10	A 81	zusammenhängend	4,683
+1368933	relation	route	detour	U 9 (A 81)				U 9	A 81	zusammenhängend	3,688
+1368944	relation	route	detour	U 16 (A 81)				U 16	A 81	zusammenhängend	5,127
+1368980	relation	route	detour	U 36 (A 81)				U 36	A 81	zusammenhängend	10,655
+1368996	relation	route	detour	U 45 (A 81)				U 45	A 81	zusammenhängend	11,269
+1370205	relation	route	detour	U 44 (A 81)				U 44	A 81	zusammenhängend	21,727
+1370242	relation	route	detour	U 4 (A 81)				U 4	A 81	zusammenhängend	5,457
+1371882	relation	route	detour	U 56 (A 81)				U 56	A 81	nicht zusammenhängend	5,647	1,180	22,175
+1371893	relation	route	detour	U 58 (A 81)				U 58	A 81	zusammenhängend	15,892
+2068306	relation	route	detour	U 3 (A 81)				U 3	A 81	zusammenhängend	9,325
+2374645	relation	route	detour	U 22 (A 5)				U 22	A 5	zusammenhängend	14,312
+2448549	relation	route	detour	U 81 (A 6)				U 81	A 6	zusammenhängend	7,612
+2593167	relation	route	detour					U 53	A 6	zusammenhängend	14,573
+2593168	relation	route	detour	U 55 (A6)				U 55	A 6	nicht zusammenhängend	6,125	0,697
+2593169	relation	route	detour					U 6	A 6	zusammenhängend	10,744
+2640419	relation	route	detour	U 38 (A 6)				U 38	A 6	zusammenhängend	14,956
+2640677	relation	route	detour	U 40 (A 6)				U 40	A 6	zusammenhängend	18,339
+2640777	relation	route	detour	U 42 (A 6)				U 42	A 6	zusammenhängend	10,729
+2642639	relation	route	detour	U 44 (A 6)				U 44	A 6	zusammenhängend	23,640
+2642689	relation	route	detour	U 46 (A 6)				U 46	A 6	zusammenhängend	8,334
+2643733	relation	route	detour	U 48 (A 6)				U 48	A 6	zusammenhängend	10,387
+2644361	relation	route	detour	U 50 (A 6)				U 50	A 6	zusammenhängend	13,477
+2646220	relation	route	detour	U 52 (A 6)				U 52	A 6	zusammenhängend	8,130
+2646225	relation	route	detour	U 54 (A 6)				U 54	A 6	zusammenhängend	23,055
+2649238	relation	route	detour	U 1 (A 98)				U 1	A 98	zusammenhängend	4,671
+2649239	relation	route	detour	U 60 (A 81)				U 60	A 81	zusammenhängend	13,304
+2649614	relation	route	detour	U 3 (A 98)				U 3	A 98	zusammenhängend	24,167
+2649621	relation	route	detour	U 21 (A 81)				U 21	A 81	zusammenhängend	13,429
+2649639	relation	route	detour	U 62 (A 81)				U 62	A 81	zusammenhängend	8,833
+2650395	relation	route	detour	U 68 (A 81)				U 68	A 81	zusammenhängend	12,115
+2650429	relation	route	detour	U 64 (A 81)				U 64	A 81	zusammenhängend	9,757
+2675001	relation	route	detour	U 4 (A 8)				U 4	A 8	zusammenhängend	22,453
+2675098	relation	route	detour	U 6 (A 8)				U 6	A 8	zusammenhängend	31,130
+2675385	relation	route	detour	U 8 (A 8)				U 8	A 8	zusammenhängend	18,344
+2675439	relation	route	detour	U 10 (A 8)				U 10	A 8	zusammenhängend	9,936
+2675457	relation	route	detour	U 12 (A 8)				U 12	A 8	zusammenhängend	6,075
+2878440	relation	route	detour	U 1 (A 7)				U 1	A 7	zusammenhängend	14,029
+2878441	relation	route	detour	U 11 (A7)				U 11	A 7	zusammenhängend	12,534
+2878443	relation	route	detour	U 15 (A7)				U 15	A 7	zusammenhängend	27,022
+2878444	relation	route	detour	U 3 (A7)				U 3	A 7	zusammenhängend	7,930
+2878452	relation	route	detour	U 5 (A7)				U 5	A 7	zusammenhängend	16,440
+2878453	relation	route	detour	U 7 (A7)				U 7	A 7	zusammenhängend	25,810
+2878454	relation	route	detour	U 9 (A7)				U 9	A 7	zusammenhängend	17,157
+3091278	relation	route	detour	U 35a (A 8)				U 35a	A 8	zusammenhängend	9,147
+3416471	relation	route	detour	U 19 (A 81)				U 19	A 81	zusammenhängend	7,867
+3417280	relation	route	detour	U 23 (A 81)				U 23	A 81	zusammenhängend	16,233
+3417351	relation	route	detour	U 25 (A 81)				U 25	A 81	zusammenhängend	29,469
+3417369	relation	route	detour	U 27 (A 81)				U 27	A 81	zusammenhängend	20,299
+3417453	relation	route	detour	U 37 (A 81)				U 37	A 81	zusammenhängend	10,870
+3417781	relation	route	detour	U 5 (A 81)				U 5	A 81	zusammenhängend	5,268
+3417814	relation	route	detour	U 7 (A 81)				U 7	A 81	zusammenhängend	3,829
+3417857	relation	route	detour	U 11 (A 81)				U 11	A 81	zusammenhängend	4,745
+3554214	relation	route	detour	U 71 (A 6)				U 71	A 6	zusammenhängend	18,468
+3608949	relation	route	detour	U 6 (A 7)				U 6	A 7	zusammenhängend	26,621
+3775061	relation	route	detour	U 20 (A 5)				U 20	A 5	zusammenhängend	18,029
+3884141	relation	route	detour					U 14a	A 5	nicht zusammenhängend	4,714	0,839
+3884142	relation	route	detour					U 32	A 5	zusammenhängend	0,716
+3919298	relation	route	detour					U 51	A 6	zusammenhängend	8,203
+4009039	relation	route	detour	U 11 (A 96)				U 11	A 96	zusammenhängend	5,109
+4009040	relation	route	detour	U 14 (A 96)				U 14	A 96	zusammenhängend	9,488
+4009041	relation	route	detour	U 9 (A 96)				U 9	A 96	zusammenhängend	9,276
+4040942	relation	route	detour	U 14 (A 7)				U 14	A 7	zusammenhängend	14,636
+4040944	relation	route	detour	U 2 (A 96)				U 2	A 96	zusammenhängend	19,968
+4040945	relation	route	detour	U 87 (A 7)				U 87	A 7	zusammenhängend	7,140
+4040946	relation	route	detour	U 89 (A 7)				U 89	A 7	zusammenhängend	6,623
+4074358	relation	route	detour	U 15 (A 96)				U 15	A 96	zusammenhängend	3,970
+4074359	relation	route	detour	U 17 (A 96)				U 17	A 96	zusammenhängend	9,096
+4074360	relation	route	detour	U 19 (A 96)				U 19	A 96	zusammenhängend	9,695
+4074361	relation	route	detour	U 4 (A 96)				U 4	A 96	zusammenhängend	10,012
+4074362	relation	route	detour	U 6 (A 96)				U 6	A 96	zusammenhängend	9,476
+4074363	relation	route	detour	U 8 (A 96)				U 8	A 96	zusammenhängend	4,626
+4075864	relation	route	detour					U 41a	A 5	zusammenhängend	4,156
+4103994	relation	route	detour	U 21 (A 96)				U 21	A 96	zusammenhängend	16,432
+4104090	relation	route	detour	U 16 (A 7)				U 16	A 7	zusammenhängend	8,310
+4104153	relation	route	detour	U 50 (A 96)				U 50	A 96	zusammenhängend	6,470
+4114121	relation	route	detour	U 91 (A 7)				U 91	A 7	zusammenhängend	0,310
+4200982	relation	route	detour					U 18a	A 5	zusammenhängend	3,502
+4260678	relation	route	detour	U 12 (A 7)				U 12	A 7	zusammenhängend	26,449
+4260679	relation	route	detour	U 14 (A 7)				U 14	A 7	zusammenhängend	22,866
+4260680	relation	route	detour	U 16 (A 7)				U 16	A 7	zusammenhängend	16,507
+5189242	relation	route	detour	U 33 (A 5)				U 33	A 5	zusammenhängend	8,530
+5189243	relation	route	detour					U 33a	A 5	zusammenhängend	14,887
+5196235	relation	route	detour					U 22a	A 5	zusammenhängend	9,071
+5196236	relation	route	detour	U 24 (A 5)				U 24	A 5	zusammenhängend	13,992
+5196600	relation	route	detour					U 39	A 5	zusammenhängend	9,710
+5281825	relation	route	detour					U 53	A 5	zusammenhängend	11,078
+5282368	relation	route	detour					U 76	A 6	zusammenhängend	11,302
+5323274	relation	route	detour					U 36	A 5	zusammenhängend	7,234
+5323275	relation	route	detour					U 36a	A 5	zusammenhängend	5,531
+5323276	relation	route	detour					U 38	A 5	zusammenhängend	22,011
+5323277	relation	route	detour					U 40	A 5	zusammenhängend	8,056
+5323278	relation	route	detour					U 44	A 5	zusammenhängend	10,730
+5323279	relation	route	detour					U 64	A 5	zusammenhängend	11,818
+5392903	relation	route	detour					U 19	A 5	zusammenhängend	5,091
+5392904	relation	route	detour	U 32 (A 5)				U 32	A 5	zusammenhängend	26,300
+5392905	relation	route	detour					U 46	A 5	zusammenhängend	17,896
+5392906	relation	route	detour					U 48	A 5	zusammenhängend	22,718
+5392907	relation	route	detour					U 48a	A 5	nicht zusammenhängend	20,063	0,141	0,273	0,279
+5392908	relation	route	detour					U 5	A 98	zusammenhängend	0,321
+5392909	relation	route	detour					U 50	A 5	nicht zusammenhängend	0,344	0,273	0,141	23,069
+5392910	relation	route	detour					U 52	A 5	zusammenhängend	11,168
+5392911	relation	route	detour					U 54	A 5	zusammenhängend	7,495
+5392912	relation	route	detour					U 65	A 5	zusammenhängend	11,705
+5392913	relation	route	detour					U 7	A 98	zusammenhängend	0,307
+5572716	relation	route	detour					U 74	A 6	zusammenhängend	8,086
+5815232	relation	route	detour	U 1 (A 8)				U 1	A 8	nicht zusammenhängend	8,501	2,392
+5815233	relation	route	detour					U 39	A 5	zusammenhängend	6,698
+6464634	relation	route	detour					U 14	A 5	zusammenhängend	35,220
+6491122	relation	route	detour	U 8 (A 7)				U 8	A 7	zusammenhängend	43,170
+6794981	relation	route	detour	U 38 (A 3)				U 38	A 3	zusammenhängend	19,285
+6808554	relation	route	detour	U 10 (A7)				U 10	A7	zusammenhängend	12,722
+6882883	relation	route	detour					U 34	A 98	zusammenhängend	22,626
+6969609	relation	route	detour	U 13 (A 96)				U 13	A 96	zusammenhängend	10,950
+7496645	relation	route	detour	U 20 (A7)				U 20	A 7	zusammenhängend	13,353
+7496646	relation	route	detour	U 18 (A7)				U 18	A 7	zusammenhängend	6,965
+8141049	relation	route	detour					U 1	A 861	zusammenhängend	4,105
+8298576	relation	route	detour	U 15 (A 81)				U 15	A 81	zusammenhängend	6,221
+8371662	relation	route	detour	U 67 (A 6)				U 67	A 6	zusammenhängend	5,540
+8438869	relation	route	detour	U 73 (A 6)				U 73	A 6	zusammenhängend	24,218
+10506654	relation	route	detour	U 73 (A 61)				U 73	A 61	zusammenhängend	20,111
+11002829	relation	route	detour	U 12 (A 7)				U 12	A 7	zusammenhängend	9,726
+11164978	relation	route	detour	U 19 (A 8)				U 19	A 8	zusammenhängend	6,695
+Datum der Auswertung:	 	2020-07-05 08:44:55.819440
+Auswertung dank	 https://www.grundid.de/ 	und 	http://ra.osmsurround.org/index

@@ -1,0 +1,67 @@
+// hike in Gärtringen
+[out:csv(::id,::type,type,route,name,description)][timeout:25];
+area[admin_level=8][name="Gärtringen"]->.searchArea;
+rel[type=route][route=hiking](area.searchArea);
+out body;
+//>; out skel qt;
+
+// bike in Gärtringen
+[out:csv(::id,::type,type,route,name,description)][timeout:25];
+area[admin_level=8][name="Gärtringen"]->.searchArea;
+rel[type=route][route=bicycle](area.searchArea);
+out body;
+//>; out skel qt;
+
+// hike in VAI
+[out:csv(::id,::type,type,route,name,description)][timeout:25];
+area[admin_level=8][name="Vaihingen an der Enz"]->.searchArea;
+rel[type=route][route=hiking](area.searchArea);
+ );
+out body;
+//>; out skel qt;
+
+// bike in VAI
+[out:csv(::id,::type,type,route,name,description)][timeout:25];
+area[admin_level=8][name="Vaihingen an der Enz"]->.searchArea;
+rel[type=route][route=bicycle](area.searchArea);
+out body;
+//>; out skel qt;
+
+
+// bike/hike in BB
+[out:csv(::id,::type,type,route,name,description,from,to)][timeout:25];
+area[admin_level=8][name="Böblingen"]->.searchArea;
+(
+  rel[type=route][route=bicycle](area.searchArea);
+  rel[type=route][route=hiking](area.searchArea);
+);
+out body;
+//>; out skel qt;
+
+// Autobahnbedarfsumleitungen Stuttgart
+[out:csv(::id,::type,type,route,name,description,from,to,ref,detour)]
+[timeout:25];
+area[admin_level=6][name="Stuttgart"]->.searchArea;
+(
+  rel[type=route][route=detour][detour~"^A"](area.searchArea);
+);
+out body;
+//>; out skel;
+
+
+// Autobahnbedarfsumleitungen Baden-Württemberg
+[out:csv(::id,::type,type,route,name,description,from,to,ref,detour)]
+[timeout:125];
+area[admin_level=4][name="Baden-Württemberg"]->.searchArea;
+(
+  rel[type=route][route=detour][detour~"^A"](area.searchArea);
+);
+out body;
+//>; out skel;
+
+// Relation laden
+[out:json]
+[timeout:125];
+  rel(3225);
+out meta;
+>; out skel;

@@ -1,0 +1,302 @@
+@id	@type	type	route	name	description	from	to	ref	detour
+2871	relation	route	detour	U 11 (A 8)				U 11	A 8
+3225	relation	route	detour	U 16 (A 8)				U 16	A 8
+18386	relation	route	detour	U 9a (A 8)				U 9a	A 8
+23144	relation	route	detour	U 14 (A 81)				U 14	A 81
+34215	relation	route	detour	U 26 (A 8)				U 26	A 8
+36821	relation	route	detour	U 2 (A 6)				U 2	A 6
+38697	relation	route	detour	U 16 (A 6)				U 16	A 6
+38809	relation	route	detour	U 37 (A 6)				U 37	A 6
+49603	relation	route	detour	U 46 (A 67)				U 46	A 67
+51315	relation	route	detour					U 78	A 6
+53698	relation	route	detour	U 73 (A 61)				U 73	A 61
+56234	relation	route	detour	U 68a (A 8)				U 68a	A 8
+56238	relation	route	detour	U 2 (A 8)				U 2	A 8
+56277	relation	route	detour	U 12a (A 8)				U 12a	A 8
+56303	relation	route	detour	U 18 (A 8)				U 18	A 8
+56305	relation	route	detour	U 18a (A 8)				U 18a	A 8
+56308	relation	route	detour	U 20 (A 8)				U 20	A 8
+56309	relation	route	detour	U 20a (A 8)				U 20a	A 8
+59890	relation	route	detour	U 4 (A 831)				U 4	A 831
+59891	relation	route	detour	U 15 (A 8)				U 15	A 8
+59896	relation	route	detour	U 17 (A 8)				U 17	A 8
+59906	relation	route	detour	U 23 (A 8)				U 23	A 8
+59910	relation	route	detour	U 23a (A 8)				U 23a	A 8
+59914	relation	route	detour	U 25 (A 8)				U 25	A 8
+59915	relation	route	detour	U 27 (A 8)				U 27	A 8
+59924	relation	route	detour	U 29 (A 8)				U 29	A 8
+59936	relation	route	detour	U 31 (A 8)				U 31	A 8
+59943	relation	route	detour	U 33 (A 8)				U 33	A 8
+59964	relation	route	detour	U 35 (A 8)				U 35	A 8
+65532	relation	route	detour	U 5 (A 81)				U 5	A 81
+65534	relation	route	detour	U 7 (A 81)				U 7	A 81
+65536	relation	route	detour	U 9 (A 81)				U 9	A 81
+65539	relation	route	detour	U 11 (A 81)				U 11	A 81
+65552	relation	route	detour	U 13 (A 81)				U 13	A 81
+65555	relation	route	detour	U 15 (A 81)				U 15	A 81
+65558	relation	route	detour	U 17 (A 81)				U 17	A 81
+65565	relation	route	detour	U 58 (A 6)				U 58	A 6
+65575	relation	route	detour	U 75 (A 6)				U 75	A 6
+65582	relation	route	detour	U 77 (A 6)				U 77	A 6
+65586	relation	route	detour	U 79 (A 6)				U 79	A 6
+65590	relation	route	detour	U 83 (A 6)				U 83	A 6
+65594	relation	route	detour	U 85 (A 6)				U 85	A 6
+65596	relation	route	detour	U 87 (A 6)				U 87	A 6
+65731	relation	route	detour	U 89 (A 6)				U 89	A 6
+67701	relation	route	detour	U 34 (A 61)				U 34	A 61
+74530	relation	route	detour	U 21 (A 8)				U 21	A 8
+88919	relation	route	detour	U 89 (A 3)				U 89	A 3
+89126	relation	route	detour	U 9 (A 8)				U 9	A 8
+109812	relation	route	detour	U 36 (A 61)				U 36	A 61
+138346	relation	route	detour	U 24 (A 8)				U 24	A 8
+151923	relation	route	detour	U 29 (A 81)				U 29	A 81
+151944	relation	route	detour	U 54 (A 81)				U 54	A 81
+151952	relation	route	detour	U 52 (A 81)				U 52	A 81
+151957	relation	route	detour	U 12 (A 81)				U 12	A 81
+151974	relation	route	detour	U 59 (A 6)				U 59	A 6
+154475	relation	route	detour	U 61 (A 6)				U 61	A 6
+165737	relation	route	detour					U 26	A 5
+165738	relation	route	detour	U 27 (A 5)				U 27	A 5
+166017	relation	route	detour	U 30 (A 5)				U 30	A 5
+166173	relation	route	detour	U 26a (A 5)				U 26a	A 5
+166175	relation	route	detour					U 28	A 5
+166202	relation	route	detour	U 29 (A 5)				U 29	A 5
+184396	relation	route	detour	U 50 (A 81)				U 50	A 81
+184399	relation	route	detour	U 6 (A 81)				U 6	A 81
+184401	relation	route	detour	U 11a (A 8)				U 11a	A 8
+184402	relation	route	detour	U 11b (A 8)				U 11b	A 8
+186370	relation	route	detour	U 19 (A 81)				U 19	A 81
+186374	relation	route	detour	U 22 (A 8)				U 22	A 8
+186375	relation	route	detour	U 13 (A 8)				U 13	A 8
+186380	relation	route	detour	U 1 (A 81)				U 1	A 81
+186640	relation	route	detour					U 19a	A 5
+186699	relation	route	detour	U 25 (A 5)				U 25	A 5
+187164	relation	route	detour	U 61 (A 5)				U 61	A 5
+187169	relation	route	detour	U 57 (A 5)				U 57	A 5
+187188	relation	route	detour	U 60 (A 6)				U 60	A 6
+187189	relation	route	detour	U 62 (A 6)				U 62	A 6
+187204	relation	route	detour	U 68 (A 6)				U 68	A 6
+187221	relation	route	detour	U 57 (A 6)				U 57	A 6
+187377	relation	route	detour	U 19 (A 81)				U 19	A 81
+187385	relation	route	detour	U 12 (A 5)				U 12	A 5
+187392	relation	route	detour					U 14	A 5
+187403	relation	route	detour	U 16 (A 5)				U 16	A 5
+222588	relation	route	detour	U 15 (A 5)				U 15	A 5
+222692	relation	route	detour	U 34 (A 5)				U 34	A 5
+222693	relation	route	detour	U 21 (A 5)				U 21	A 5
+275357	relation	route	detour	U 48 (A 81)				U 48	A 81
+275358	relation	route	detour	U 33 (A 81)				U 33	A 81
+275361	relation	route	detour	U 46 (A 81)				U 46	A 81
+275362	relation	route	detour	U 35 (A 81)				U 35	A 81
+278245	relation	route	detour	U 31 (A 81)				U 31	A 81
+278310	relation	route	detour	U 2 (A 81)				U 2	A 81
+281512	relation	route	detour	U 42 (A 81)				U 42	A 81
+281513	relation	route	detour	U 40 (A 81)				U 40	A 81
+281514	relation	route	detour	U 41 (A 81)				U 41	A 81
+281515	relation	route	detour	U 39 (A 81)				U 39	A 81
+285092	relation	route	detour	U 43 (A 81)				U 43	A 81
+285093	relation	route	detour	U 38 (A 81)				U 38	A 81
+318213	relation	route	detour	U 24 (A 81)				U 24	A 81
+326713	relation	route	detour	U 26 (A 81)				U 26	A 81
+326719	relation	route	detour	U 25 (A 81)				U 25	A 81
+359986	relation	route	detour	U 26a (A 8)				U 26a	A 8
+363644	relation	route	detour	U 16 (A 81)				U 16	A 81
+363892	relation	route	detour	U 18 (A 81)				U 18	A 81
+363895	relation	route	detour	U 70 (A 6)				U 70	A 6
+363897	relation	route	detour	U 72 (A 6)				U 72	A 6
+363901	relation	route	detour	U 63 (A 6)				U 63	A 6
+372476	relation	route	detour	U 66 (A 6)				U 66	A 6
+372557	relation	route	detour	U 31 (A 81)				U 31	A 81
+379582	relation	route	detour	U 6 (A 81)				U 6	A 81
+389470	relation	route	detour					U 1	A 5
+389502	relation	route	detour	U 3 (A 5)				U 3	A 5
+389583	relation	route	detour	U 5 (A 5)				U 5	A 5
+389622	relation	route	detour					U 7	A 5
+390275	relation	route	detour	U 7a (A 5)				U 7a	A 5
+390299	relation	route	detour	U 9 (A 5)				U 9	A 5
+390435	relation	route	detour					U 11	A 5
+390547	relation	route	detour					U 13	A 5
+390608	relation	route	detour					U 17	A 5
+390648	relation	route	detour	U 23 (A 5)				U 23	A 5
+391253	relation	route	detour	U 31 (A 5)				U 31	A 5
+391322	relation	route	detour					U 35	A 5
+391357	relation	route	detour					U 37	A 5
+391955	relation	route	detour	U 5 (A 8)				U 5	A 8
+392000	relation	route	detour	U 7 (A 8)				U 7	A 8
+392351	relation	route	detour	U 8 (A 81)				U 8	A 81
+392353	relation	route	detour	U 12 (A 81)				U 12	A 81
+392355	relation	route	detour	U 18 (A 81)				U 18	A 81
+395536	relation	route	detour	U 22a (A 8)				U 22a	A 8
+395542	relation	route	detour	U 24a (A 81)				U 24a	A 8
+396783	relation	route	detour	U 28 (A 8)				U 28	A 8
+396785	relation	route	detour	U 28a (A 8)				U 28a	A 8
+396796	relation	route	detour	U 30 (A 8)				U 30	A 8
+396806	relation	route	detour	U 32 (A 8)				U 32	A 8
+396807	relation	route	detour	U 34 (A 8)				U 34	A 8
+396822	relation	route	detour					U 39a	A 5
+396824	relation	route	detour					U 41	A 5
+396831	relation	route	detour					U 45	A 5
+396833	relation	route	detour					U 47	A 5
+397086	relation	route	detour	U 49 (A 5)				U 49	A 5
+397088	relation	route	detour	U 51 (A 5)				U 51	A 5
+397092	relation	route	detour	U 55 (A 5)				U 55	A 5
+397214	relation	route	detour	U 59 (A 5)				U 59	A 5
+397218	relation	route	detour	U 63 (A 5)				U 63	A 5
+399031	relation	route	detour	U 86 (A 5)				U 86	A 5
+399035	relation	route	detour	U 88 (A 5)				U 88	A 5
+399042	relation	route	detour	U 92 (A 5)				U 92	A 5
+399047	relation	route	detour	U 94 (A 5)				U 94	A 5
+399048	relation	route	detour					U 96	A 5
+399055	relation	route	detour	U 8 (A 5)				U 8	A 5
+399059	relation	route	detour	U 10 (A 5)				U 10	A 5
+399075	relation	route	detour	U 18 (A 5)				U 18	A 5
+399076	relation	route	detour	U 3 (A 8)				U 3	A 8
+399082	relation	route	detour	U 7a (A 8)				U 7a	A 8
+399088	relation	route	detour	U 9b (A 8)				U 9b	A 8
+399132	relation	route	detour	U 2 (A 831)				U 2	A 831
+399165	relation	route	detour					U 17a	A 8
+399452	relation	route	detour	U 14 (A 8)				U 14	A 8
+399574	relation	route	detour	U 17 (A 81)				U 17	A 81
+402041	relation	route	detour	U 20 (A 81)				U 20	A 81
+402043	relation	route	detour	U 27 (A 81)				U 27	A 81
+402048	relation	route	detour	U 13 (A 81)				U 13	A 81
+402915	relation	route	detour	U 14 (A 81)				U 14	A 81
+402923	relation	route	detour	U 21 (A 81)				U 21	A 81
+422449	relation	route	detour	U 14 (A 81)				U 14	A 81
+422454	relation	route	detour	U 16 (A 81)				U 16	A 81
+422457	relation	route	detour	U 23 (A 81)				U 23	A 81
+422459	relation	route	detour	U 29 (A 81)				U 29	A 81
+536754	relation	route	detour	U 66a (A 6)				U 66a	A 6
+546183	relation	route	detour	U 22 (A 81)				U 22	A 81
+564056	relation	route	detour	U 65 (A 6)				U 65	A 6
+574675	relation	route	detour	U 64 (A 6)				U 64	A 6
+574695	relation	route	detour	U 69 (A 6)				U 69	A 6
+942841	relation	route	detour	U 61a (A 6)				U 61a	A 6
+975592	relation	route	detour	U 10 (A 81)				U 10	A 81
+1103450	relation	route	detour	U 90 (A 5)				U 90	A 5
+1204020	relation	route	detour					U 19a	A 8
+1204021	relation	route	detour					U 12a	A 8
+1210357	relation	route	detour	U 56 (A 6)				U 56	A 6
+1285135	relation	route	detour					U 30	A 8
+1368380	relation	route	detour	U 10 (A 81)				U 10	A 81
+1368933	relation	route	detour	U 9 (A 81)				U 9	A 81
+1368944	relation	route	detour	U 16 (A 81)				U 16	A 81
+1368980	relation	route	detour	U 36 (A 81)				U 36	A 81
+1368996	relation	route	detour	U 45 (A 81)				U 45	A 81
+1370205	relation	route	detour	U 44 (A 81)				U 44	A 81
+1370242	relation	route	detour	U 4 (A 81)				U 4	A 81
+1371882	relation	route	detour	U 56 (A 81)				U 56	A 81
+1371893	relation	route	detour	U 58 (A 81)				U 58	A 81
+2068306	relation	route	detour	U 3 (A 81)				U 3	A 81
+2374645	relation	route	detour	U 22 (A 5)				U 22	A 5
+2448549	relation	route	detour	U 81 (A 6)				U 81	A 6
+2593167	relation	route	detour					U 53	A 6
+2593168	relation	route	detour	U 55 (A6)				U 55	A 6
+2593169	relation	route	detour					U 6	A 6
+2640419	relation	route	detour	U 38 (A 6)				U 38	A 6
+2640677	relation	route	detour	U 40 (A 6)				U 40	A 6
+2640777	relation	route	detour	U 42 (A 6)				U 42	A 6
+2642639	relation	route	detour	U 44 (A 6)				U 44	A 6
+2642689	relation	route	detour	U 46 (A 6)				U 46	A 6
+2643733	relation	route	detour	U 48 (A 6)				U 48	A 6
+2644361	relation	route	detour	U 50 (A 6)				U 50	A 6
+2646220	relation	route	detour	U 52 (A 6)				U 52	A 6
+2646225	relation	route	detour	U 54 (A 6)				U 54	A 6
+2649238	relation	route	detour	U 1 (A 98)				U 1	A 98
+2649239	relation	route	detour	U 60 (A 81)				U 60	A 81
+2649614	relation	route	detour	U 3 (A 98)				U 3	A 98
+2649621	relation	route	detour	U 21 (A 81)				U 21	A 81
+2649639	relation	route	detour	U 62 (A 81)				U 62	A 81
+2650395	relation	route	detour	U 68 (A 81)				U 68	A 81
+2650429	relation	route	detour	U 64 (A 81)				U 64	A 81
+2675001	relation	route	detour	U 4 (A 8)				U 4	A 8
+2675098	relation	route	detour	U 6 (A 8)				U 6	A 8
+2675385	relation	route	detour	U 8 (A 8)				U 8	A 8
+2675439	relation	route	detour	U 10 (A 8)				U 10	A 8
+2675457	relation	route	detour	U 12 (A 8)				U 12	A 8
+2878440	relation	route	detour	U 1 (A 7)				U 1	A 7
+2878441	relation	route	detour	U 11 (A7)				U 11	A 7
+2878443	relation	route	detour	U 15 (A7)				U 15	A 7
+2878444	relation	route	detour	U 3 (A7)				U 3	A 7
+2878452	relation	route	detour	U 5 (A7)				U 5	A 7
+2878453	relation	route	detour	U 7 (A7)				U 7	A 7
+2878454	relation	route	detour	U 9 (A7)				U 9	A 7
+3091278	relation	route	detour	U 35a (A 8)				U 35a	A 8
+3416471	relation	route	detour	U 19 (A 81)				U 19	A 81
+3417280	relation	route	detour	U 23 (A 81)				U 23	A 81
+3417351	relation	route	detour	U 25 (A 81)				U 25	A 81
+3417369	relation	route	detour	U 27 (A 81)				U 27	A 81
+3417453	relation	route	detour	U 37 (A 81)				U 37	A 81
+3417781	relation	route	detour	U 5 (A 81)				U 5	A 81
+3417814	relation	route	detour	U 7 (A 81)				U 7	A 81
+3417857	relation	route	detour	U 11 (A 81)				U 11	A 81
+3554214	relation	route	detour	U 71 (A 6)				U 71	A 6
+3608949	relation	route	detour	U 6 (A 7)				U 6	A 7
+3775061	relation	route	detour	U 20 (A 5)				U 20	A 5
+3884141	relation	route	detour					U 14a	A 5
+3884142	relation	route	detour					U 32	A 5
+3919298	relation	route	detour					U 51	A 6
+4009039	relation	route	detour	U 11 (A 96)				U 11	A 96
+4009040	relation	route	detour	U 14 (A 96)				U 14	A 96
+4009041	relation	route	detour	U 9 (A 96)				U 9	A 96
+4040942	relation	route	detour	U 14 (A 7)				U 14	A 7
+4040944	relation	route	detour	U 2 (A 96)				U 2	A 96
+4040945	relation	route	detour	U 87 (A 7)				U 87	A 7
+4040946	relation	route	detour	U 89 (A 7)				U 89	A 7
+4074358	relation	route	detour	U 15 (A 96)				U 15	A 96
+4074359	relation	route	detour	U 17 (A 96)				U 17	A 96
+4074360	relation	route	detour	U 19 (A 96)				U 19	A 96
+4074361	relation	route	detour	U 4 (A 96)				U 4	A 96
+4074362	relation	route	detour	U 6 (A 96)				U 6	A 96
+4074363	relation	route	detour	U 8 (A 96)				U 8	A 96
+4075864	relation	route	detour					U 41a	A 5
+4103994	relation	route	detour	U 21 (A 96)				U 21	A 96
+4104090	relation	route	detour	U 16 (A 7)				U 16	A 7
+4104153	relation	route	detour	U 50 (A 96)				U 50	A 96
+4114121	relation	route	detour	U 91 (A 7)				U 91	A 7
+4200982	relation	route	detour					U 18a	A 5
+4260678	relation	route	detour	U 12 (A 7)				U 12	A 7
+4260679	relation	route	detour	U 14 (A 7)				U 14	A 7
+4260680	relation	route	detour	U 16 (A 7)				U 16	A 7
+5189242	relation	route	detour	U 33 (A 5)				U 33	A 5
+5189243	relation	route	detour					U 33a	A 5
+5196235	relation	route	detour					U 22a	A 5
+5196236	relation	route	detour	U 24 (A 5)				U 24	A 5
+5196600	relation	route	detour					U 39	A 5
+5281825	relation	route	detour					U 53	A 5
+5282368	relation	route	detour					U 76	A 6
+5323274	relation	route	detour					U 36	A 5
+5323275	relation	route	detour					U 36a	A 5
+5323276	relation	route	detour					U 38	A 5
+5323277	relation	route	detour					U 40	A 5
+5323278	relation	route	detour					U 44	A 5
+5323279	relation	route	detour					U 64	A 5
+5392903	relation	route	detour					U 19	A 5
+5392904	relation	route	detour	U 32 (A 5)				U 32	A 5
+5392905	relation	route	detour					U 46	A 5
+5392906	relation	route	detour					U 48	A 5
+5392907	relation	route	detour					U 48a	A 5
+5392908	relation	route	detour					U 5	A 98
+5392909	relation	route	detour					U 50	A 5
+5392910	relation	route	detour					U 52	A 5
+5392911	relation	route	detour					U 54	A 5
+5392912	relation	route	detour					U 65	A 5
+5392913	relation	route	detour					U 7	A 98
+5572716	relation	route	detour					U 74	A 6
+5815232	relation	route	detour	U 1 (A 8)				U 1	A 8
+5815233	relation	route	detour					U 39	A 5
+6464634	relation	route	detour					U 14	A 5
+6491122	relation	route	detour	U 8 (A 7)				U 8	A 7
+6794981	relation	route	detour	U 38 (A 3)				U 38	A 3
+6808554	relation	route	detour	U 10 (A7)				U 10	A7
+6882883	relation	route	detour					U 34	A 98
+6969609	relation	route	detour	U 13 (A 96)				U 13	A 96
+7496645	relation	route	detour	U 20 (A7)				U 20	A 7
+7496646	relation	route	detour	U 18 (A7)				U 18	A 7
+8141049	relation	route	detour					U 1	A 861
+8298576	relation	route	detour	U 15 (A 81)				U 15	A 81
+8371662	relation	route	detour	U 67 (A 6)				U 67	A 6
+8438869	relation	route	detour	U 73 (A 6)				U 73	A 6
+10506654	relation	route	detour	U 73 (A 61)				U 73	A 61
+11002829	relation	route	detour	U 12 (A 7)				U 12	A 7
+11164978	relation	route	detour	U 19 (A 8)				U 19	A 8
